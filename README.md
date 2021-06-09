@@ -1,2 +1,2 @@
-# karthikkaiplody.github.io
+# karthikk-ai.github.io
 My Project portfolio
