@@ -149,6 +149,23 @@ p.lead {
   }
 }
 
+icon.container {
+  height: 200px;
+  position: relative;
+  border: 3px solid green;
+}
+
+icon.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+
+
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
